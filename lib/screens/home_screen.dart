@@ -11,7 +11,11 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Food Delivery'),
-        // TODO: Add search bar widget here
+        // TODO: Add search bar widget here    
+
+
+
+
       ),
       body: Column(
         children: [
