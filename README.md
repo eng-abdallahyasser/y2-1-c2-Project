@@ -16,15 +16,6 @@ This project is a food delivery application built with Flutter.
 2. Run `flutter pub get` to install dependencies
 3. Run `flutter run` to launch the app
 
-## Project Structure
-
-lib/
-├── main.dart
-├── models/
-├── screens/
-├── utils/
-└── widgets/
-
 ## Key Features
 
 - Food item browsing
@@ -49,13 +40,6 @@ lib/
 - [ ] UI polish (rounded corners, animations)
 - [ ] Rating displays
 
-## Resources
-- [Flutter Documentation](https://docs.flutter.dev/)
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-## Screenshots
-(Add your screenshots here when available)
 
 ## Contributors
 Abdallah Yasser Abdallah
